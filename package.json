@@ -1,0 +1,16 @@
+{
+	"name": "curso-de-asincronismo-con-js",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"callback": "node src/callbacks/challenge.js"
+	},
+	"author": "Gh0stRacoon",
+	"license": "MIT",
+	"dependencies": {
+		"node-fetch": "^3.2.10",
+		"xmlhttprequest": "^1.8.0"
+	},
+	"type": "module"
+}
