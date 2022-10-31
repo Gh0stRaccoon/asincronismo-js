@@ -6,7 +6,8 @@
 	"scripts": {
 		"callback": "node src/callbacks/challenge.js",
 		"promise": "node src/promises/challenge.js",
-		"async": "node src/async/challenge.js"
+		"async": "node src/async/challenge.js",
+		"generator": "node src/generators/challenge.js"
 	},
 	"author": "Gh0stRacoon",
 	"license": "MIT",
